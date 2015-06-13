@@ -31,3 +31,7 @@ our transformations or work that we performed to clean up the data
 - combine data frames y_train and y_test by rows.
 - combine data frames subject_train and subject_test by rows.
 
+### 2._Extract only the measurements on the mean and standard deviation for each measurement
+- Read file 'features.txt' in table format
+- get the indexes for columns with mean() or std() in their names
+- subset by filtered features
