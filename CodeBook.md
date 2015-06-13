@@ -35,3 +35,8 @@ our transformations or work that we performed to clean up the data
 - Read file 'features.txt' in table format
 - get the indexes for columns with mean() or std() in their names
 - subset by filtered features
+
+### 3._Use descriptive activity names to name the activities in the data set.
+- Read file 'activity_labels.txt' in table format.
+- replace the ID's activities by labels.
+- set column name
