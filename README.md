@@ -32,7 +32,7 @@ You should create one R script called run_analysis.R that does the following.
 
 3._Execute the R script 
 
-4._The output is a file called `independent_tidy_data.txt`, and uploaded in the course project's form.
+4._The output is a file called `independent_tidy_data.txt`, and it uploaded in the course project's form.
 
  
 ### Additional Information
