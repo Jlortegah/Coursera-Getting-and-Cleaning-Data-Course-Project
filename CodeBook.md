@@ -47,3 +47,5 @@ our transformations or work that we performed to clean up the data
 - combine data frames extracted_data_set, y_train_test and subject_train_test by columns
 
 ### 5._Create a second, independent tidy data set with the average of each variablefor each activity and each subject
+- calculate data frame average break down by activity and subject.
+- Create a file for independent tidy data set called 'independent_tidy_data.txt'
