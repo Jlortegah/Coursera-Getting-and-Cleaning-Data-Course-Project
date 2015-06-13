@@ -40,3 +40,8 @@ our transformations or work that we performed to clean up the data
 - Read file 'activity_labels.txt' in table format.
 - replace the ID's activities by labels.
 - set column name
+
+### 4._Appropriately labels the data set with descriptive variable names.
+- set the column names for extracted data set.
+- set column name subject data set.
+- combine data frames extracted_data_set, y_train_test and subject_train_test by columns
