@@ -22,3 +22,12 @@ For each record in the dataset it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
+our transformations or work that we performed to clean up the data
+
+### 1._Merge the training and the test sets to create one data set.
+- Read files in table format and create a data frames from them
+- combine data frames x_train and x_test by rows.
+- combine data frames y_train and y_test by rows.
+- combine data frames subject_train and subject_test by rows.
+
